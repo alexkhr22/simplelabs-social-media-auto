@@ -1,0 +1,6 @@
+a photorealistic landscape , alone male
+model in a diamond studded cap , with
+a black wolf , shiny hair , cinematic
+mist , close up shot, portrait, haze , cinematic glow --ar 4:5
+--raw --sref 2670451553 --stylize
+1000

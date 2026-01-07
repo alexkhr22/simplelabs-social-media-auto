@@ -1,0 +1,9 @@
+Model in white oversized blazer
+under simulated rain, droplets
+hitting skin, visible wet shine,
+natural pores under water film,
+cinematic shutter 1/250, studio
+strobe cross-light, Arri Alexa film
+LUT grade --chaos 6 --ar 4:5 --
+style raw --v7 --quality 2 --
+stylize 1000 --weird 16

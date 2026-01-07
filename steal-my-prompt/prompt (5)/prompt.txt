@@ -1,0 +1,5 @@
+Panning camera technique, subject in perfect focus,
+1/15 shutter speed effect, streaking background
+motion, street fashion photography, motion tracking
+shot, blurred pedestrians, sharp subject isolation --ar
+4:5 --s 250 --raw

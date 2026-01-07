@@ -1,0 +1,29 @@
+Male model, mid-20s, sharp facial structure, light stubble,
+short buzz haircut dusted with fine snow. Half-body portrait,
+standing in cold outdoor environment with falling snowflakes.
+The model is wearing an open winter jacket layered over a
+textured wool sweater, relaxed yet strong posture, looking
+straight toward camera with composed intensity. Camera &
+Composition: shot on Fujifilm GFX100 medium-format, 85 mm
+f/1.8 lens, half-body frame from waist up, slight low angle to
+emphasize presence, shallow depth of field with gentle
+background blur and snow bokeh. Lighting: natural overcast
+daylight, soft diffused light with subtle rim reflection from
+snow, balanced exposure to retain highlight detail in
+snowflakes and shadow depth on clothing. Color & Tone: cool
+cinematic palette—steel blue, charcoal grey, and skin
+warmth contrasting the cold; mild matte grade with teal
+shadows and desaturated highlights. Skin realism: ultra-
+photorealistic skin, visible pores, fine vellus hair, natural
+micro-sheen from cold air, small ice crystals and snow buzz
+resting on eyebrows and hairline, subtle red undertones on
+nose and ears, subsurface scattering at ear edges, fine film-
+grain texture, no smoothing or retouching, anatomically clean
+features and transitions. Environment: soft snowfall drifting
+through frame, visible flakes near lens for depth, distant
+blurred trees and frost tones in background, breath mist
+faintly visible. Artistic direction: luxury winter editorial,
+cinematic restraint, raw natural realism shot in the mood of
+Prada Alpine or Louis Vuitton winter campaigns—minimal,
+tactile, emotional. --chaos 5 --ar 3:4 --quality 4 --raw --
+stylize 150

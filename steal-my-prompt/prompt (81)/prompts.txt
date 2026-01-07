@@ -1,0 +1,8 @@
+A young woman sits at a wooden kitchen table,
+morning sunlight cutting through blinds,
+orange warmth across her face, blue
+refrigerator glow behind, visible fine skin hair,
+skin oils catching light, hyper-real cinematic
+photography, shallow DOF, Arri Alexa LF look,
+soft haze --chaos 4 --ar 4:5 --style raw --v 7
+--quality 2 --stylize 1000 --weird 8

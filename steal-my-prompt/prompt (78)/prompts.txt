@@ -1,0 +1,8 @@
+Male model in structured gun-metal suit
+leaning against brushed-steel wall, cool
+industrial daylight, precise specular
+highlights on jawline oils, 35 mm f/1.8
+handheld frame, natural lens aberration,
+subtle color grade teal-orange --chaos 5
+--ar 4:5 --style raw --v 7 --quality 2 --
+stylize 900 --weird 14

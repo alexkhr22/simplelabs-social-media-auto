@@ -1,0 +1,6 @@
+Cinematic night chrome fashion portrait with motion blur, model leaning forward into wind-tunnel
+effect, background city light streaks, 135mm telephoto compression, skin rendered with extreme
+fidelity: micro-pore structure, fine sweat sheen, reflective T-zone highlights, translucent ear rims,
+faint vein texture, warm inner glow to skin, dual-source lighting (cool cyan key + warm sodium fill),
+atmospheric fog haze, motion trails in metallic fabric, editorial high-luxury ad tone --no stylised
+illustration, no cartoon --chaos 20 --ar 4:5 --quality 2 --raw --stylize 50

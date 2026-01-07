@@ -1,0 +1,17 @@
+4:5 vertical editorial poster, top-heavy negative space, subject placed in lower third. Photorealistic,
+print-like texture, heavy film grain, visible pores, sweat, fabric compression. No cinematic glow. No
+commercial look. No stock-photo aesthetics. SUBJECT ICON, NOT RANDOM: Bruce Lee, lean
+muscular build, identity unmistakable, severe intense eyes. Hair: short. Wardrobe: plain black
+sleeveless top, matte, no logos. POSE FULL BODY, JOINT-LEVEL CONSTRAINT: Standing, feet wide;
+heels lifted slightly; weight on balls of feet; calves engaged. Knees locked outward; hips braced.
+Arms held forward at chest height, elbows locked (not expressive), hands clenched with fingers
+stiff; tendons visible. Spine unnaturally straight; shoulders pulled back too far; chest frozen. Neck
+elongated; head tilted upward; jaw clenched asymmetrically. Eyes above frame; unblinking,
+detached. Pose must feel physically unsustainable, ritualistic stillness (not action). SETTING:
+Seamless solid red. LIGHTING: Single overhead, slightly misaligned; harsh planes; deep falloff;
+
+uncomfortable contrast. TYPOGRAPHY EMBEDDED PRINT INK: Top-center, bold geometric sans-
+serif, lowercase with period, oversized, opacity 90-92%, grain absorbed. Text: "discipline is loud."
+
+NEGATIVE PROMPTS: martial arts action, kick/punch motion, hero pose, cinematic glow, commercial
+look, logos, comfort, symmetry --ar 4:5 --raw

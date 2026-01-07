@@ -1,0 +1,11 @@
+Freckled albino male model, white lashes and
+brows, wearing all-black satin jumpsuit,
+standing on edge of cliff with black volcanic
+rocks under dramatic storm sky, RED digital
+camera with 35mm lens, cinematic grayscale
+color grading with strong contrast, hyper-
+detailed skin and facial texture, wind-blown full
+body pose, dramatic film grain, realistic fashion
+editorial energy, perfect symmetry and body
+precision --ar 4:5 --seed 5151 --quality 2 --
+raw --stylize 185

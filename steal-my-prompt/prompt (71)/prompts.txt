@@ -1,0 +1,6 @@
+cinematic lighting, bright colours,
+strong contrast, orange and blue, young
+woman with long blonde hair, walking in
+the woods, photography, dark and light,
+intense, stranger things --ar 3:4 --style
+raw --v7 --stylize 250

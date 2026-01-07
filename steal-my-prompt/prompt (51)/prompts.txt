@@ -1,0 +1,3 @@
+figure running along faded boardwalk, motion blur carving the ocean light into horizontal streaks,
+skin tones realistic under overcast sky, pastel blues and soft sands merging, low-contrast cinematic
+grade 70mm, f/2.5, controlled pan, subtle camera shake. --ar 4:5 --raw --stylize 500
