@@ -1,5 +1,0 @@
-A distant wide shot of a solitary man sitting at a
-small wooden desk with a beige 1990s computer in
-the middle of an endless green field. Camera creates a
-vhs effect and goes round capturing the loneliness of
-a man --ar 4:5 --s 250 --raw
