@@ -1,0 +1,6 @@
+High-end studio motion blur fashion editorial, model in angular power pose, camera panning left to
+right, crisp face slicing through blur, skin texture extremely realistic: visible pores, fine vellus hairs,
+soft sweat film, natural lip line diffusion, fine nasolabial folds, ultra-realistic human skin, Leica 50
+mm f/1.4 look, misty volumetric studio light, rim glow wrapping around silhouette, Pro-Mist
+diffusion, subtle lens dust and fingerprint residue overlay for tactile realism --no flat lighting, no
+cartoonish style --chaos 10 --ar 4:5 --quality 2 --raw --stylize 50

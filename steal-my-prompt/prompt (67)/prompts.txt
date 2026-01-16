@@ -1,0 +1,6 @@
+Androgynous model in metallic silver jacket and tailored
+pants, standing amid brutalist architecture, mid-day
+overcast light, cinematic muted tones, sharp lens edges,
+pore-level detail, subtle sweat texture, crisp DOF fall-off
+--chaos 5 --ar 4:5 --style raw --v 7 --quality 2 --stylize
+900 --weird 14

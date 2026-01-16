@@ -1,0 +1,9 @@
+A lone biker standing on an empty desert
+highway, faint smoke drifting, teal
+shadowed asphalt, orange dust in sunlight,
+cinematic wide shot with telephoto
+compression, human face lit naturally,
+visible pores, lens dust, subtle motion
+blur, Red Komodo 6K still look --chaos 5
+--ar 4:5 --style raw --v7 --quality 2 --
+stylize 900 --weird 18

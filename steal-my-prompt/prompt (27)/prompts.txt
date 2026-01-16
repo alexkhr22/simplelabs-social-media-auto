@@ -1,0 +1,11 @@
+prompt_id: 2
+
+A woman stands alone under a single
+streetlight, empty street around, orange
+glow bathing her face, teal night
+background, natural freckles visible,
+realistic skin microtexture, emotional
+cinematic composition, Arri Mini LF
+Zeiss Supreme 50 mm f/1.5 --chaos 5
+--ar 4:5 --style raw v7 --quality 2
+--stylize 970 --weird 11

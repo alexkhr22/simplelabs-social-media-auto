@@ -1,0 +1,592 @@
+Prompt-
+A mysterious woman stands in stark lighting, centered mid-frame. Her face is nearly concealed by a
+
+tightly fitted, glitter-black balaclava — the fabric is interwoven with dense metallic microfibers,
+catching and reflecting light in a subtle constellation of sparkles. Only her almond-shaped eyes and
+a sliver of her upper face are exposed, revealing a masterclass in makeup precision. Her eyelids are
+brushed with soft rose-bronze shadows; the pigments blend seamlessly into her natural skin tone,
+creating dimension. Thick, voluminous lashes fan outward in a precisely curled, upward lift. The
+eyeliner is bold, with tight waterlining and elongated wings tapering to sharp points. Her sculpted
+brows are meticulously arched, feathered naturally, and groomed with a soft edge that frames her
+gaze with intensity and focus.
+
+Her skin — though mostly obscured — hints at a medium-neutral complexion with a silky matte
+undertone, suggestive of light oil-control finish. Around her exposed eye area, micro-pores and fine
+baby hairs (vellus fuzz) create natural textural fidelity, with subtle highlights along the brow bone
+and upper cheek catching the frontal light. The glint of a glossed tearline and natural eye moisture
+offers realism and hydration detail, while her eye whites reflect studio lighting — clean with faint
+vascular detail. There is slight tension in her jawline beneath the mask, revealed only by the gentle
+stretch of fabric over her chin and neck, suggesting poised control.
+
+She wears a long-sleeve, skin-tight garment made from the same shimmering fabric as the
+balaclava — jet black with embedded reflective flecks. The fabric molds tightly to her shoulders,
+chest, and arms, subtly revealing muscle tone and clavicle curves through the tension of the
+material. The light source defines the upper arcs of her shoulders while fading into soft shadows
+near the ribcage and arms, creating dimensional relief across her torso.
+
+At her neckline rests a heavy, diamond-encrusted Cuban link chain with two layers — one thicker,
+one tighter — both studded with high-clarity stones that catch sharp specular highlights. Hanging
+
+from the chain is a pendant shaped like a pair of glossy, pink lips slightly ajar, fully pavé-set in pink
+and white diamonds. The mouth reveals a single embedded fang, adding a subtle narrative edge.
+The metallic reflections on the pendant are crisp, refracted through the cuts of the stones, with
+controlled bloom and exposure falloff.
+
+Her nails are long, sculpted stiletto tips — painted in a glossy, deep mauve polish. Each nail reflects
+the studio light with a sharp vertical highlight, and her fingers are posed in mid-motion — slightly
+spread and elevated, enhancing the kinetic tension. The fingers create a framing gesture around her
+face and chain, directing focus with intentionality. A singular diamond ring on one hand subtly
+glints, with micro-reflections on the facets suggesting high-speed flash illumination.
+
+Lighting & Camera Spec:
+The lighting setup is harsh frontal flash — sharp, high-contrast with minimal diffusion, creating deep
+drop shadows behind the subject and intense facial clarity. Exposure is set for medium skin,
+resulting in deliberate highlight clipping on the diamonds and fabric shimmer. The camera appears
+
+to be a full-frame DSLR (likely Canon EOS R5), using an 85mm prime lens at f/2.2 — creating mid-
+grade compression with shallow depth of field. The background falls into pure black with no
+
+ambient fill, creating extreme subject isolation. Flash proximity generates soft edge halos on
+reflective surfaces.
+
+Environmental Texture Overlays:
+The air is clean, with no visible particulate — enhancing the hyper-staged, editorial atmosphere. The
+only atmosphere present comes from the reflective elements: specular bounces off the glitter suit
+and diamond surfaces mimic suspended dust, though none is truly present. There is no visible fog,
+haze, or depth scatter. This is a stark, vacuum-like studio void — intentional for luxury product
+focus and character clarity.
+
+Emotional Tone:
+Composed and commanding. Her gaze is poised and deliberate, with a seductive undercurrent—
+calculated but restrained. The upward lift of her eyes, combined with the cold sparkle of her
+pendant, suggests controlled power, luxury, and danger. This is not a casual capture; it’s a
+declaration of aesthetic and identity—cinematic and editorial in the same breath.
+
+Rendering Tags:
+photorealistic, 85mm lens, f/2.2, harsh flash lighting, studio void, cinematic realism, ultra-high
+texture fidelity, diamond speculars, metallic thread detail, micro facial fuzz, glossy nails, editorial
+fashion, high contrast skin highlight retention
+
+Prompt-
+A serene woman reclines across a seamless matte white studio floor, posed in perfect alignment
+
+from foreground to background. Her elongated arm stretches directly toward the lens, forming a
+forced perspective tableau where her hand dominates the frame with surreal clarity. The camera is
+placed low and wide, exaggerating depth, compressing her body behind her extended arm, and
+creating a visual tension between softness and precision.
+
+Her hand is the closest element to the lens — hyper-detailed, showcasing warm neutral skin with
+balanced undertones and velvet-matte diffusion. Her skin reveals high-resolution surface
+microtextures: faint natural folds around knuckles, realistic tendon tension, subtle color gradients
+across phalanges, and a whisper of tiny vellus hairs along the wrist line. Each nail is sculpted to a
+soft almond point, coated in a glossy, muted taupe polish — minimalistic yet pristine. The fingernails
+reflect diffused studio light with gentle specular ridges, capturing dimensionality without glare.
+
+She wears a set of pearl and gold beaded rings and matching bracelets — lustrous, rounded pearls
+offset with high-shine gold bezels, spaced in geometric precision. The jewelry catches light softly,
+not with diamond intensity but with opulent warmth — a balance of matte luster and gentle
+highlights. The pearls’ surfaces are subtly irregular, showcasing material realism. On her wrist, two
+layered pearl bracelets arch over the ulna, with enough looseness to suggest gravity, but tight
+enough to hint at compositional symmetry.
+
+As the viewer’s gaze travels along the arm, it guides the eye toward her face and torso in the
+background. She lies in a full-body white bodysuit — a satin-matte synthetic blend that clings with
+seamless elegance to her curves. The fabric shows faint stretch lines and compression folds at
+
+natural anatomical points: underarm crease, rib flare, and hip bend. This creates both volume and
+topological realism in the garment.
+
+Her chestnut brown hair fans gently across the floor, naturally curled and softened by gravity. She
+wears under-eye white patches — glossy hydrogel textures that reflect overhead light. Her makeup
+is minimal, natural: skin is diffused, warm-toned, without powder matte — it glows softly under
+studio lights. Her lips are nude-toned, and brows are naturally brushed with no visible
+enhancement. Her gaze points upward toward the ceiling, contributing to a sense of introspective
+calm.
+
+Lighting & Camera Spec:
+Shot with a Canon EOS R5, using a 14mm wide-angle lens at f/4.5. The exaggerated depth of field
+keeps the hand in ultra-sharp focus while gradually defocusing toward the torso and legs,
+producing surreal size distortion with technical precision. Lighting is ultra-soft and evenly
+distributed — a diffused overhead umbrella array with full white bounce fill, generating zero harsh
+shadows. Skin tone is evenly exposed, avoiding hotspots, while retaining pore-level texture fidelity.
+
+Environment & Overlay Details:
+Set in an editorial white cyclorama studio — no horizon line, creating visual infinity. The floor is a
+clean matte surface with subtle fiber texture — grounded realism. No visible dust, haze, or
+atmospheric particles — this is a sterile, product-focused space designed to isolate form and
+motion. The high-key lighting setup ensures there’s no ambient falloff — the entire subject is evenly
+lifted from the background with crisp tonal separation.
+
+Emotional Tone:
+Intimate stillness. There’s a soft luxury to her presence — grounded, feminine, unapologetically
+calm. The hand becomes a leading character — stretched toward the viewer like a bridge. This isn’t
+a moment of action, but of breath — a luxurious pause. It evokes precision, poise, and unspoken
+strength.
+
+Rendering Tags:
+photorealistic, wide-angle 14mm, shallow-to-deep DOF, studio white void, texture fidelity, forced
+
+perspective, pearl realism, clean beauty, editorial high-key lighting, surreal body geometry
+
+Prompt-
+Reclining woman on seamless white void, arm stretched toward lens in surreal forced perspective.
+
+Hand dominates foreground like a sculpture — warm neutral skin with natural creases,
+microtextures, and soft tendon tension. Taupe almond nails glint subtly under soft white studio light.
+Fingers adorned with pearl-gold rings, layered pearl bracelets resting against wrist curvature, each
+bead catching diffused luster.
+
+Body recedes in soft compression — white bodysuit clinging to form, gentle tension folds at rib,
+shoulder, hip. Fabric reads satin-matte with anatomical fidelity. Face turned upward, eyes closed or
+calm, under-eye hydrogel patches glistening. Hair fanned across white floor in organic curl spread.
+Jewelry and skin tone balanced in warm editorial harmony.
+
+Lit by overhead diffuse softboxes, no shadow falloff. Shot with 14mm wide-angle lens, Canon EOS
+R5, f/4.5. Foreground in sharp focus, body subtly fading into depth, white void studio with matte
+fiber floor, no environmental texture. Atmosphere clean, surgical. Emotion: tranquil poise, softness
+with latent strength. Editorial calm, sculptural serenity.
+
+⸻
+
+Keywords for SeaDream tagging:
+#photoreal #surrealperspective #pearlrealism #editorialwhite
+#macrohand #bodyscape #softlight #texturefidelity #14mmlens
+#studioshot #forceddepth #dreamstillness
+
+Prompt-
+Close-up portrait of an elegant woman, neck and lips bathed in soft golden light, upper face lost in
+
+deep shadow. Shot in chiaroscuro studio setting — light isolates only her collarbones, lips, and the
+gleam of fine jewelry. Her skin is velvety, neutral-beige with peach undertones, subtly flushed on
+the cheeks. Micro-pores, natural peach fuzz, and delicate texture visible on chin and neck. Lips full,
+defined, satin-finished with soft natural shine — no gloss, no matte — just ambient skin reflectivity.
+No visible makeup.
+
+She wears a fine platinum chain with a suspended pendant — tall, capsule-shaped with a small
+square diamond inset at the base. Matching minimalist earrings dangle from pierced lobes, barely
+catching specular rim light. Jewelry surfaces reflect light like liquid metal, not sharp sparkle —
+subtle luster, editorial restraint. Shadows carve across her clavicles and jawline, emphasizing bone
+architecture and organic geometry.
+
+Hair is straight, dark, pulled back and down behind shoulders, vanishing into black negative space.
+No flyaways, no movement. The background dissolves into pitch black with a barely-there green
+gradient glow behind the subject’s silhouette — suggesting controlled color bounce from a gelled
+edge light far off frame.
+
+Camera & Light Specs
+Captured with a medium format digital camera (Phase One XF, 110mm lens, f/5.6), studio setup.
+Single hard spotlight from top right at 45°, tightly flagged to control spill. High dynamic range
+retained in skin zones with subtle diffusion in post. Background fades into true black via deep
+falloff. Jewelry highlights manually dodged to retain form, not flare.
+
+Emotional Tone
+Silent power, mystery, intimacy. This is not about identity — it’s about presence. A shadowed beauty
+with light precisely rationed — revealing only what must be seen: the jewelry, the neck, the sensual
+silence of a profile half-swallowed by dark.
+
+⸻
+
+Keywords for SeaDream tagging:
+#chiaroscuro #softshadowportrait #editorialjewelry #skintexture
+#studiohardlight #neckfocus #velvetskintone #minimalglow
+#mediumformatclarity #specularrestraint #moodportraiture
+
+Prompt-
+Beauty portrait in jewel-tone studio setting — woman posed with interlocked hands framing her
+
+face, rich blue backdrop. Skin: warm-neutral with subtle golden undertones, high microtexture
+fidelity. Freckles scattered naturally across nose and cheeks, creating a lived-in realism. No visible
+foundation — skin breathes. Lips are softly parted, natural rose-beige tint, satin finish without gloss.
+Brows brushed upward with minimal fill, lashes natural, slightly curled. Eyes hazel-green, reflective
+with clear catchlights.
+
+Her hands dominate foreground composition — sculptural gesture, with elegant tension. Nails are
+almond-shaped, lacquered in deep oxblood gloss. Fingers adorned in high-polished gold rings —
+thick, smooth, mirror-reflective surfaces. Wrist stacked with matching gold bangles; earring and
+collar necklace in same golden metal, exaggerated and sculptural, catching clean studio speculars.
+
+Lighting: clean, frontal beauty lighting — soft shadow falloff, even exposure, slight diffusion for skin
+realism. Key light slightly off-center to left, bounce fill from right to maintain facial structure. Shot
+on medium format, 80mm lens, f/8 for clarity across hands and face. Focus razor-sharp on central
+facial plane; depth plane slightly compressed. Studio background matte, rich ultramarine blue,
+color-blocked for contrast.
+
+Mood: Power, precision, polished elegance. A study in contrasts — soft skin, hard gold. Every
+surface calibrated: skin tones warm and alive; metal cold and sculptural. Composition invites pause
+— this is not a fashion image, it’s a portrait of presence.
+
+⸻
+
+Keywords for SeaDream tagging:
+#goldeditorial #macrohands #skinrealism #freckledbeauty #bluebackdrop
+#jewelryfocus #studiofashionlight #mirrorfinishmetal #cleanbeauty
+#luxeminimalism
+
+Prompt-
+Extreme close-up of a deep-skinned woman in white shirting, adorned with layered gold jewelry —
+
+image cropped mid-lip, her expression implied but hidden. Light source is soft and angled,
+skimming the curves of her cheek, collarbone, and braids. Skin: richly melanated, deep espresso
+tone with satin-matte luminosity. Fine pore structure and even skin tone — no makeup texture, only
+natural light absorption and gentle oil-bounce across lip arc and shoulder.
+
+Jewelry: layered gold chains in mixed gauge — box link, curb, paperclip — all high-polish, catching
+pinpoint speculars with editorial restraint. Earring is thick, twisted rope hoop; ring in foreground
+features an onyx center stone with ridged golden band. Gold tones are warm and rich, calibrated for
+maximum luster against dark skin.
+
+Fingernail: soft square shape with blush-pink polish, catching soft frontal light. The gesture is
+elegant — hand rests at the collar, slightly in motion, introducing kinetic softness. Shirt is ivory
+cotton poplin — light-creased, matte, with sharp collar fold adding architectural structure to the soft
+skin below.
+
+Camera & Light Specs
+Shot with a full-frame DSLR (Canon R5), macro lens at f/3.2 — narrow focus on center collarbone
+and gold links, with bokeh falloff into hand and lip. Lighting is controlled — top-left softbox with
+light feathered down and blocked from highlights. Clean background in soft white — no shadows, no
+distractions. Light falloff on skin emphasizes curvature and dimensionality.
+
+Mood: Luxe minimalism. Presence through silhouette. This frame doesn’t ask to be seen — it
+commands attention through contrast, texture, and omission. The jewelry becomes voice; the skin,
+canvas.
+
+⸻
+
+Keywords for SeaDream tagging:
+#darkskinluxury #macroeditorial #goldjewelryfocus #skintexturedepth
+#softlightportrait #minimalgesture #whitefabriccontrast
+#melanindetail #onyxring #macrobeautyshot
+
+Prompt-
+Young woman in soft-focus portrait, leaning slightly forward with gaze calm yet penetrating. Loose
+
+strands of brown-auburn hair fall across her face — fine, feathery, with soft curl memory at the tips.
+Hair pulled into a messy updo, clean but unstructured, with visible flyaways catching frontal light.
+Skin: fair porcelain with warm pink undertones and a natural smattering of faint freckles across nose
+and cheeks. Microtextures visible on lips, upper cheekbone, and collarbone — no foundation blur,
+pure anatomical fidelity.
+
+Eyes are blue-gray, moist and glassy with mid-sized irises and soft lighting catch. Lashes are
+natural, not enhanced. Brows are full, dark and softly arched with real hair definition — slightly
+brushed. Lips full and expressive, with a terracotta rose hue and natural gradient from center
+outward — velvet-matte, no gloss.
+
+She wears multi-layered pearl necklaces — micro and mid-sized beads on thin gold thread, draped
+gently over the collarbones. Matching bracelet wraps her wrist. Earrings are subtle, thin gold hoops.
+The blouse: oversized white cotton poplin, off-shoulder, with visible creases, light crumple tension,
+and elegant fabric shadowing.
+
+Lighting
+Natural soft window light — large source from camera right, wrapping gently around face and neck.
+No harsh shadows; light falloff is slow and rounded. Background is soft neutral gray, completely
+matte, no texture.
+
+Camera Specs
+Captured on full-frame DSLR (Canon R6 or Nikon Z7 equivalent), 85mm lens at f/2.8. Focal plane
+
+rests on face, with lips and eyes in sharp alignment. Depth of field isolates subject from background
+gently, while preserving texture on neck and shirt.
+
+Mood
+Romantic poise. Tender strength. This is portraiture rooted in softness — not fragility, but the
+elegance of imperfection. Every detail is allowed to live: the crease in fabric, the freckle under the
+eye, the wild strand of hair.
+
+⸻
+
+Keywords for SeaDream tagging:
+#freckledromantic #pearlportrait #naturalsoftlight #editorialrealism
+#mattepoise #85mmlens #texturevisible #offshoulderwhite
+#hairflyawaydetail #skinintimacy
+
+Prompt-
+Cropped torso portrait — hands softly pressed against chest, revealing décolletage under a boxy
+
+brown suit jacket. No shirt beneath. Skin is warm tan, with neutral-golden undertones, fine pores
+and natural tone gradation at sternum and neck crease. Nails clean, almond-shaped, manicured in
+soft peach nude. Gesture is relaxed, elegant — thumbs lightly resting against each other, tension
+distributed evenly across palms.
+
+Jewelry: a thick, high-polish gold medallion necklace with chain-link construction, clasp visible.
+Pendant is oval, lightly textured with iconographic engraving — a coin-style relief. Rings: wide,
+ridged, and stacked — four total, matte-gold on index and ring fingers of both hands, slightly
+hammered or patterned texture. Light glints catch ridges, emphasizing materiality.
+
+Jacket: deep cocoa-brown wool or cotton blend, with light matte finish. Fabric reads warm and
+sculptural. Sleeves oversized, extending past the wrist. Button detail is visible — four-hole brown
+horn buttons with soft reflection. Lapel edges structured, with inner shoulder padding giving
+silhouette power.
+
+Lighting & Camera
+Shot in high-key daylight — soft ambient light from large window or skylight. No hard shadows; even
+lighting across subject. Tone-true exposure with no color cast. Background is a clean, warm-gray or
+stone white, completely unobtrusive. Captured on full-frame mirrorless (Sony A7R IV equivalent),
+50mm lens at f/2.5 — focused on chest plane, shallow depth of field softens edges of jacket sleeves
+and hands.
+
+Mood: Understated authority. Jewelry is the punctuation, not the sentence. This is luxury seen
+through gesture, proportion, and texture. The tension lies not in the subject’s face, but in the
+composition — masculine framing with feminine curation.
+
+⸻
+
+Keywords for SeaDream tagging:
+#luxesimplicity #goldmedallionnecklace #brownblazerportrait
+#skinandstructure #minimalcomposition #goldringseditorial
+#chestgesturefocus #daylightclarity #mattefabricstudy
+#editorialneutraltones
+
+Prompt-
+Close-up portrait of a woman in a pristine ivory-white garment, fabric with subtle grain and matte
+
+finish — minimalist tailoring with sculpted volume at the shoulder and wrist. The subject’s right hand
+
+delicately frames her left earlobe, drawing attention to jewelry. Fingernails are short, softly almond-
+shaped, natural tone polish in muted cream-beige.
+
+Earring: a statement piece, two interlocked golden rings — thick, high-polish finish, metal catching
+soft directional light. Ring: open-loop design in molten-gold form, placed on index finger. The metal
+appears weighty and smooth, with warm specular highlights and minimal surface texture.
+
+Skin: fair ivory with pink-neutral undertones, pore-level detail maintained. High-fidelity skin
+
+rendering — micro-fuzz along cheek and jawline, subtle peach fuzz near temple. Light sheen across
+upper cheek and bridge of nose from diffused lighting. Skin texture visible — minor undulations on
+cheek, soft highlight falloff along jawline. Brows: dark, thick, cleanly arched with groomed individual
+hairs. Eyes: almond-shaped, hazel with a green-gold undertone. Lash line defined, but not overly
+stylized. Lips: rose-tinted nude, satin finish with natural contours visible.
+
+Hair
+Dark espresso brown, parted cleanly and slicked back tightly into an unseen bun. Hair appears wet
+or serum-finished — smooth, high-gloss, with clear directionality and no flyaways. Light reflects in a
+clean band across crown.
+
+Lighting & Environment
+High-key studio lighting — single softbox at 45° camera left, casting gentle specular highlights and
+minimal shadow depth. Background: warm eggshell-beige, completely textureless. Ambient bounce
+light ensures no harsh contrast on lower face or neckline.
+
+Camera Specs
+Shot on a medium-format sensor (Phase One IQ4 or Hasselblad X2D equivalent), 100mm lens at f/4.
+Focus plane rests perfectly on eye and jewelry. Extreme sharpness with microcontrast retained in all
+metal surfaces and skin pores. Minimal color grading — pure tone capture.
+
+Mood
+Intentional serenity. A study in deliberate placement and balance. The frame whispers luxury
+through negative space and restraint. Every element — hand position, earring weight, skin tone — is
+in harmony.
+
+⸻
+
+Keywords for SeaDream tagging:
+#goldminimalism #skinglossstudy #portraitformprecision
+#sculptedlightbeauty #productportraitluxury #hazeleyeclarity
+#cleanlinedcomposure #studioivorypalette #slickedbackelegance
+#100mmlensclarity
+
+Prompt-
+Portrait of androgynous figure in sculptural gold jewelry, caught mid-motion in controlled blur.
+
+Upper body framed from clavicle to crown, head facing forward but in slight lateral movement —
+producing horizontal ghosting and echo blur across facial structure. Lighting creates dramatic split:
+harsh key light from camera left divides the face, casting one eye and cheek into darkness.
+Background is a neutral concrete gray, textured slightly, blurred into spatial wash.
+
+Face is partially visible: high cheekbones, soft jawline, neutral lips. Skin tone is porcelain-peach with
+cinematic warmth. Iris visible in left eye — slate blue-gray, sharpened by light. Eyebrows full,
+unplucked, arching naturally. Lips slightly parted, motion blur distorts their exact shape. Right
+earring: long, rectangular stacked bars in gold. Left: small circular hoop, barely catching the light.
+
+Neck adorned with aggressive architectural gold collar — layered geometric segments resembling
+linked rods, each piece casting distinct micro shadows on collarbones and upper sternum. Jewelry
+glows in harsh directional light — gold refracting heat into the lens.
+
+Hair: short, tousled, dark chestnut with cool undertones. Light picks up loose fringe across
+forehead. Individual strands break in blur, reinforcing motion narrative.
+
+Camera & Motion Data
+Captured on RED Komodo or Leica SL2-S equivalent, 50mm lens at f/2.8, slow shutter speed (1/20s)
+introduces intentional motion drag. ISO ~320, allowing soft grain texture. No in-camera
+stabilization. Depth plane rests on collarbone — sharpest region is the jewelry.
+
+Mood
+Distorted elegance. Identity fragmented. Luxury as vibration. A piece that lives between breath and
+form — this is not a still, but a ghost of presence. Tension, velocity, and poise exist simultaneously.
+
+⸻
+
+Keywords for SeaDream tagging:
+#goldvibration #blurrealism #kineticportrait #luxmotioneditorial
+#ghostinlight #goldarchitecturaljewelry #slowshutterdrama
+#halflightaesthetic #experimentaleditorial #motionpoise
+
+Prompt-
+Portrait of a poised woman with icy, assertive gaze, set against a bold crimson backdrop.
+
+Composition: upper torso to crown, full frontal face, symmetrical alignment. Expression is controlled
+confidence with subtle defiance; micro-tightness in the jaw and tension in the brow ridge imply
+command. Hair is parted precisely at center, lacquered into a sleek, low chignon — jet-black with
+cool violet undertones, high gloss.
+
+Skin is alabaster-neutral with visible red undertones — light rosacea bloom across cheekbones, fine
+freckles across nasal bridge and orbital crest. Pore-level detail maintained: matte-to-satin texture
+with oil catch at T-zone, minimal surface sheen. Microtexture includes subtle vellus fuzz on jawline
+and temple, light peach tone. Light sculpting on clavicles, deltoids, and décolletage — lean
+musculature emphasized via falloff gradient.
+
+Eyes: blue-gray irises with mild amber flecks toward limbal ring. Reflective gloss along lower
+waterline, visible tear meniscus. Eyelashes defined but not editorial — moderate mascara effect.
+Brows are brushed up, natural shape retained, slight asymmetry in arc.
+
+Lips: natural mauve-pink tone with slight vertical texture lines. Semi-hydrated — matte at corners,
+slight central gloss catch.
+
+Jewelry:
+
+• Earrings: elongated silver chain links, mechanical-luxury motif, final link ends in
+diamond-set closure ring.
+• Bracelet: open bangle with twin squared diamond terminals, art-deco inspired.
+• Rings: pavé-set dome band on right index; angular silver band on left pinky.
+
+Metal specular reflection preserved with subtle studio glare.
+
+Wardrobe: ribbed white tank top, texture captured in stretch at shoulder seam. Cool-
+toned white with matte fabric falloff.
+
+Lighting:
+3-point studio rig. Primary key light frontal-right, with softbox diffusion. Fill from
+camera left, white bounce card softening shadow edges. Rim light gently highlighting
+hairline. Skin tones calibrated toward neutral fidelity, slight cyan cast on shadows to
+balance red background.
+
+Camera metadata:
+85mm lens, f/5.6, ISO 100, shutter 1/125s. Medium telephoto flattening facial planes
+while maintaining depth around eyes and lips. No barrel distortion. Focus plane rests
+on iris; sharpness falloff at deltoid and wrist confirms depth isolation.
+
+Backdrop: seamless cherry red backdrop, matte. Smooth color density without
+banding. No props, isolating figure.
+
+Mood: contemporary strength, jewelry as armor, gaze confrontational but elegant.
+
+⸻
+
+Rendering Tags for Model Transfer:
+#photorealism #85mmportrait #skinmicrodetail #jewelryreflectivity
+#deepredbackdrop #beautyeditorial #skintrue #studioiso
+#realismoverlay #sharpirisplane #luxmetallic
+
+Prompt-
+Side portrait of a futuristic female model with a cool, impassive expression. Camera angle: profile-
+leaning three-quarter view, focus on facial structure and sculptural jewelry. Background is soft
+
+neutral beige, studio-lit — fully desaturated, allowing subject and materials to dominate.
+
+Model has East Asian features: high cheekbones, porcelain skin with pale gold undertones, faint
+natural freckles on cheekbone shelf. Skin finish is velvet-matte with no specular hotspots, subtle
+real-skin microtexturing — undereye faint creasing, natural lip striation.
+
+Eyes: deep brown iris, intense lateral gaze. Minimal lash enhancement, softly feathered brow.
+Eyeshadow is warm-toned — muted copper gradient fading to skin tone, slightly smoked at the lash
+line.
+
+Hair: jet black, sleek texture, micro-fringe cut clean above lash line. Hair is tucked tightly behind
+ears to reveal earrings, sharp asymmetrical ends.
+
+Statement earrings: ultra-futuristic chrome-sculpted forms, resembling melted industrial metal,
+hyper-gloss reflective finish. Earrings span jawline to shoulder, weight and form intentionally
+exaggerated — they distort surrounding light and background, reflecting skin and ambient tones in
+warped geometry.
+
+Wardrobe: structured chocolate brown corduroy blazer with wide lapel. Fabric texture high-
+resolution — cord wale pattern clearly visible. Garment structure is sharp-shouldered, neck exposed
+
+to amplify earrings’ visual impact.
+
+Lighting:
+Soft frontal fill with left-side key casting minimal shadow. High dynamic range lighting to preserve
+detail across skin, chrome, and corduroy. No harsh rim light — instead, subtle ambient light
+preserves shape contour. Neutral color temperature (5000K) maintains color integrity of metallic
+elements.
+
+Mood: high-fashion alien minimalism meets contemporary avant-garde. No expression beyond
+contained elegance — concept is wearable industrial art.
+
+Camera Metadata:
+50mm lens, f/4.0, ISO 200, 1/125s. Crisp aperture setting to render the chromatic detail of the
+
+earrings. Focus plane on iris and ear; shallow DOF isolates model from background.
+
+Tags for Model Reference / Training Set Integration:
+#highfashionprofile #chromeearsculpture #avantgardeeditorial
+#matteporcelainskin #studio104 #asianmodelbeauty #neutralbackdrop
+#hyperrealjewelry #corduroytexture #skinrealism #reflectivegeometry
+
+Prompt-
+Ultra-high fidelity macro portrait of a woman’s face and hand in a high-fashion jewelry editorial.
+
+Cropped at temple and lips, focusing on eye gaze, skin realism, and tactile interaction between
+hand and face. Intimate yet assertive composition.
+
+IDENTITY
+Woman.
+Mixed ethnic lineage; Mediterranean-Latina. Bone structure: strong mandible, broad cheekbones,
+shallow orbital ridge. Full lips with soft vermillion tilt. Brows: full, brushed up, angular arch. Almond
+eyes, laterally tilted; gaze direct, confident.
+
+SKIN TEXTURE
+Warm neutral tone (Fitzpatrick III-IV). Visible pores, especially T-zone. Light natural oil at nasal fold
+and brow. Microtextures include:
+• Peach fuzz along jaw
+• Faint sun freckles
+• Subsurface pink near lips and lids
+• Fine lines near outer eye/lip
+Skin realism: Pore Lattice 3.0, Subdermal Hue, Oil Bloom, Edge Diffusion
+
+LIPS
+Hydrated, soft highlight. Top lip narrow with ridges; lower lip rounded. Visible vertical creases from
+expression.
+
+HAIR (partial)
+Slicked back with visible wet strands near temple. Cool brown, tension-clumped at scalp.
+
+EYES
+Deep hazel with amber inner ring. Iris: detailed radial fibers. Wet-line reflection. Lacrimal caruncle
+visible. White of eye clean, minimal veins. Lashes clumped slightly.
+
+HANDS
+Long fingers, faintly defined tendons. Natural nails, almond shaped. Skin detail: fine joint lines,
+cuticle shine, preserved creases.
+
+JEWELRY
+
+• Rings: Rose gold, stacked on index/middle fingers. Studded pyramid textures
+with pavé diamond edges. Central sculptural band flanked by two slim ones. Reflective
+metals and gem sparkle from hard light. Rings cast shadows and reflect ambient tones.
+
+LIGHTING
+Single hard light at ~30° from top-right.
+~5000K daylight balance. Sharp shadows under nose, lips, fingers. Pink light bounce from skin onto
+rings and lips.
+
+CAMERA
+Lens: 85mm prime
+Aperture: f/5.6 — clear depth focus
+ISO 100, Shutter 1/160
+Sensor: Full-frame CMOS
+Focus: pupil and top ring, with soft falloff at knuckles.
+
+ENVIRONMENT
+Neutral studio setup, seamless background. No haze. Subtle subject bounce reflections.
+
+EMOTIONAL TONE
+Fierce sensuality. Tensed jaw, parted lips, direct gaze. Temple-hand pose conveys self-awareness,
+
+power, identity through adornment.
+
+⸻
+
+Render Tags:
+#macrobeauty #85mm #f56 #ringfocus #skinrealismplus #poreaccuracy
+#HDRlightmap #wetlineretail #jewelrymacro #rosemetal #studiofocus
+#texturelock #emotionencoded

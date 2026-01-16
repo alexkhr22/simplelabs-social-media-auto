@@ -1,0 +1,8 @@
+Latina model with olive skin tone, loose curls,
+light freckles, dressed in high-fashion ruffled
+couture, styled for print editorial, Phase One
+XF IQ4 camera, golden hour lighting, textured
+natural background, cinematic tones, ultra-
+realistic skin, perfect hands and posture, no
+glitches --ar 4:5 --seed 8080 --quality 2 --
+raw --stylize 150

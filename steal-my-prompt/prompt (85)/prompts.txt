@@ -1,0 +1,6 @@
+Model wearing minimalist floral-pattern blazer
+amid raw concrete walls, cool ambient light,
+bounce fill from white floor, 45° key-light,
+realistic pore gradation, visible neck texture,
+cinematic tonal contrast --chaos 4 --ar 4:5 --
+style raw --v7 --quality 2 --stylize 890

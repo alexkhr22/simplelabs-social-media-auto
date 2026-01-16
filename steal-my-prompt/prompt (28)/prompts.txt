@@ -1,0 +1,62 @@
+{
+ "prompt": "High-fashion cinematic close-up portrait of a Western woman with brown
+hair and curtain bangs peeking out from a dark silver Baklava-style scarf. Her head fills
+80% of the frame, looking directly at the camera with slightly sleepy eyes and full soft
+orange lips. Fair skin with natural freckles. The scene is set in a field under a bright blue
+sky just before sunset, creating a natural warm glow. Apply a subtle warm orange-brown
+color tone across the image, enhancing vintage and editorial fashion vibes without any
+borders, frames, or Polaroid-style edges. Bold, minimalistic Vogue magazine-style
+composition, soft cinematic lighting highlighting facial features and metallic texture of
+the scarf. Shot on Kodak film ISO 400 with a Leica camera, analog film aesthetic,
+cinematic depth of field, polished editorial finish.",
+ "negative_prompt": "oT-center composition, head too small in frame, model not
+looking at camera, cluttered background, reflections on face or scarf, harsh shadows,
+overexposed highlights, unnatural skin tones, distortion, glitches, double faces, plastic
+skin, surreal painterly eTects, orange border, white border, frame, vignette, edge tint,
+Polaroid border",
+ "style": {
+ "genre": "high-fashion cinematic portrait",
+ "mood": "warm, vintage editorial, golden hour",
+ "visual_language": "minimalistic, bold, polished, analog film realism"
+ },
+ "camera": {
+ "camera_model": "Leica",
+ "lens": "standard portrait lens",
+ "film": "Kodak ISO 400",
+ "aperture": "wide aperture for shallow depth of field",
+ "framing": "head fills 80% of frame, centered",
+ "angle": "eye-level, frontal portrait"
+ },
+ "lighting": {
+ "source": "natural golden hour sunlight",
+ "diTusion": "soft, warm glow from low sun",
+ "quality": "soft cinematic lighting highlighting face and scarf"
+ },
+ "color_palette": {
+ "primary_tones": ["warm orange-brown subtle tone", "fair skin", "brown hair", "dark
+silver scarf"],
+ "accent_tones": ["soft orange lips", "freckles"],
+ "background": "field under bright blue sky, sun near horizon",
+ "eTects": "warm, vintage analog film feel applied to image only, no frame or border"
+ },
+ "composition": {
+ "subject_position": "centered",
+ "head_size": "80% of frame",
+ "focus": "face and eyes sharp, scarf and bangs visible",
+ "background": "field with bright blue sky, minimal distractions"
+ },
+ "post_processing": {
+ "focus": "crisp facial features, eyes emphasized",
+ "texture": "analog film grain, subtle warm tone",
+ "realism": "photorealistic, editorial magazine finish",
+ "restrictions": "no glitches, no reflections on face or scarf, no harsh shadows, no
+borders, no frames"
+ },
+ "parameters": {
+ "aspect_ratio": "4.5:1",
+ "chaos": 20,
+ "raw": true,
+ "profile": "bxn7r8v",
+ "stylize": 950
+ }
+}

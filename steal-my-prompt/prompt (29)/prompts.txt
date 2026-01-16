@@ -1,0 +1,52 @@
+{
+ "model": "seedream",
+ "prompt": "High-fashion sports campaign, dark cinematic aesthetic. Medium close-up
+studio portrait of a female tennis player, styled as a luxury fashion editorial. The model is
+photographed straight-on, directly facing the camera, positioned precisely in the center
+of the frame. Only half of her face is visible due to controlled shadow, while the other
+half fades into deep darkness. She holds a Wilson tennis racket vertically in front of her
+face; the string bed aligns centrally and partially obscures her features, acting as a
+geometric grid. One visible eye is sharp, intense, and piercing, looking directly into the
+lens through the strings, while the foreground strings remain softly out of focus. The
+setting is a very dark room with minimal ambient light. Lighting is sculptural and precise:
+a subtle overhead beauty dish shapes only the illuminated half of her face, leaving the
+other side in near-black shadow. No neon light touches the model. In the background, a
+soft, abstract bokeh emerges from darkness, intersected by a single diIused neon light
+beam or streak (cool-toned cyan or magenta) passing behind her, atmospheric and out
+of focus. The background remains deep, dark, and cinematic. Composition is centered
+and symmetrical in framing, yet visually tense due to the half-face reveal. Mediumformat photography look inspired by Hasselblad H6D, 100mm portrait lens, shallow
+depth of field, f/4 aesthetic. Editorial color grading with muted skin tones, deep blacks,
+controlled highlights, matte finish, crisp eye detail, and subtle cinematic film grain.
+Moody, modern, avant-garde luxury tennis campaign vibe.",
+ "negative_prompt": "oI-center composition, angled camera, profile view, full face
+evenly lit, smiling expression, casual snapshot, flat lighting, neon light hitting the model,
+overexposed highlights, oversaturated colors, warm color cast, cluttered background,
+wide-angle distortion, cartoon, illustration, CGI look, low resolution, plastic skin, heavy
+retouching, beauty filters, text, watermark, logo artifacts",
+ "style": {
+ "aesthetic": "dark aesthetic photography",
+ "mood": "mysterious, intense, cinematic",
+ "texture": "subtle film grain",
+ "finish": "matte editorial"
+ },
+ "composition": {
+ "framing": "medium close-up",
+ "alignment": "straight-on, centered",
+ "visibility": "only half of the face visible due to shadow",
+ "focus": "single visible eye sharp, strings softly blurred in foreground"
+ },
+ "lighting": {
+ "key_light": "very subtle overhead beauty dish shaping one side of the face",
+ "ambient": "minimal, very dark room",
+ "background_light": "diIused neon light beam in bokeh, behind the model only",
+ "contrast": "high contrast with deep shadows"
+ },
+ "camera_look": {
+ "sensor": "medium format",
+ "lens": "100mm portrait",
+ "aperture_look": "f/4 shallow depth of field"
+ },
+ "aspect_ratio": "4:5",
+ "quality": "ultra high detail",
+ "stylization_strength": 0.55
+}

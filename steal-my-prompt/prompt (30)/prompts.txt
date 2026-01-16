@@ -1,0 +1,44 @@
+{
+ "model": "seedream",
+ "prompt": "Ultra-realistic studio portrait of a 22-year-old male, sitting sideways, closeup of the face, side profile, chin slightly raised. Normal human facial proportions, no
+fantasy features, no animal traits, no elf ears, no unusual teeth. Strong, well-defined
+jawline. Intense, expressive gaze looking directly into the camera. Freckles, natural skin
+texture, imperfect symmetry, real pores, real light, real emotion. Wearing a clean ivory
+tee with visible fabric wrinkles. Messy, tousled hair. Visible veins on neck, some liver
+spots on skin. Medium-format photography look. Soft, natural daylight, not artificial or
+studio lighting. Calm, professional fashion casting energy. Editorial stillness. Highly
+detailed, hyper-realistic textures. Plain white seamless background, studio-style, no
+visible edges or textures.",
+ "negative_prompt": "fantasy features, elf ears, animal traits, unusual teeth, cartoonish,
+CGI look, exaggerated proportions, unrealistic facial structure, heavy retouching, plastic
+skin, neon lights, cluttered background, shadows on background, dramatic colors, wideangle distortion, text, watermark, logo artifacts, smiling expression, closed eyes, harsh
+studio lighting, overexposed highlights, artificial light, looking away from camera, chin
+too low or too high",
+ "style": {
+ "aesthetic": "high-fashion minimalism",
+ "mood": "calm, professional, editorial",
+ "texture": "natural skin, freckles, visible veins and liver spots, realistic pores and fabric
+wrinkles",
+ "finish": "hyper-realistic, clean, polished"
+ },
+ "composition": {
+ "framing": "side profile, close-up of face, upper torso minimally visible",
+ "alignment": "sitting sideways, chin slightly raised, direct gaze into camera",
+ "visibility": "full side face visible, jawline and neck veins emphasized",
+ "focus": "intense gaze, jawline and facial contours highlighted, calm pose"
+ },
+ "lighting": {
+ "key_light": "soft, natural daylight, not artificial or studio lighting",
+ "ambient": "even, natural light, minimal shadows",
+ "background_light": "plain white seamless background, no visible edges or textures",
+ "contrast": "subtle, natural shadows to define facial features and neck veins"
+ },
+ "camera_look": {
+ "sensor": "medium format",
+ "lens": "portrait lens 85-100mm equivalent",
+ "aperture_look": "shallow depth of field, soft background blur"
+ },
+ "aspect_ratio": "4:5",
+ "quality": "ultra high detail",
+ "stylization_strength": 0.6
+}

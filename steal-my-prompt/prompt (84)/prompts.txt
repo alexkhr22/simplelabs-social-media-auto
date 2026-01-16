@@ -1,0 +1,20 @@
+Male model with very short buzz-cut hairstyle, mid-20s, olive-beige skin,
+sharp jawline and strong symmetrical facial features, minimal silver stud
+earring only. Mid-body portrait, model looking straight into camera
+with composed, neutral expression. Camera & Composition: shot on
+Fujifilm GFX100 medium-format sensor, 85 mm f/1.4 lens, eye-level
+framing, centered composition, shallow DOF, tack-sharp eyes, soft
+bokeh background. Lighting: pure white studio, high-key light setup with
+softbox diffusion from both sides and subtle overhead fill; even
+exposure, no harsh shadows. Color & Tone: clean neutral whites and
+skin-tone accuracy, cinematic soft contrast, film-grade highlight roll-
+off. Skin realism: ultra-photorealistic human skin, pore-level detail, faint
+vellus hair, natural micro-sheen on T-zone, matte on cheek contours,
+subsurface scattering around ears and nose, subtle capillary warmth,
+no plastic smoothing, preserved fine lines, film-grain surface depth,
+anatomically correct features, clean jaw-neck transition. Environment:
+seamless white background, faint gradient fall-off, floating dust
+shimmer under studio light for realism. Artistic direction: high-end luxury
+fashion editorial portrait, minimalism, quiet strength, photographed in
+the spirit of Peter Lindbergh × Zoe Ghertner modern purity. --chaos 5 --
+ar 3:4 --quality 4 --raw --sref 2822390401 --stylize 150

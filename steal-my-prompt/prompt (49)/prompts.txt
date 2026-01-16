@@ -1,0 +1,4 @@
+a woman mid-stride crossing a sunlit street, motion blur streaking the pastel city behind her, soft
+reflections on pavement, muted blush and beige palette, shallow depth, cinematic lens flare cutting
+across motion 50mm, f/1.4, handheld tracking, fine-grain realism, imperfect focus pull. --ar 4:5 --
+raw --stylize 500

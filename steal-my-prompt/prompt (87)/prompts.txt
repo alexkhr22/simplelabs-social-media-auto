@@ -1,0 +1,6 @@
+Studio low-key portrait, deep navy velvet
+backdrop, model in sequined blazer, visible
+skin pores on collarbone and cheek, subtle
+glitter reflection, 100mm f/2.8 macro portrait,
+ISO 200 --chaos 4 --ar 4:5 --style raw --v 7 --
+quality 2 --stylize 950 --weird 15

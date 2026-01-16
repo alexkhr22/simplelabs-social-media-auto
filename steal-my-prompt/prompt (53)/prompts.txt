@@ -1,0 +1,25 @@
+4 variations of 1 prompt which i uploaded.
+
+studio headshot with teal backlight rim, natural complexion realism, fine texture of pores, subtle
+perspiration glint, 85mm Zeiss lens, cinematic light falloff, soft haze and raw imperfection, --no blur
+watermark text distorted faces logos --ar 4:5 --raw --stylize 1000
+
+older man’s portrait in tungsten light with teal ambient spill, every wrinkle and pore pronounced,
+cinematic contrast between warm highlights and cool shadows, 105mm macro depth, raw film tone,
+imperfect exposure balance, --no blur watermark text distorted faces logos --ar 4:5 --raw --stylize
+1000
+
+profile portrait of a young woman near a teal-painted wall, split light hitting half her face, skin pores
+and tiny hairs rendered in tactile detail, cinematic blue-green tint, 35mm handheld, faint motion
+softness, imperfect grain, --no blur watermark text distorted faces logos --ar 4:5 --raw --stylize
+1000
+
+male portrait in overcast daylight, teal-toned grade with warm skin contrast, cinematic framing
+shoulder-up, natural oil sheen on skin, microtexture realism, 50mm lens bokeh, lens flare through
+smoke, imperfect white balance, --no blur watermark text distorted faces logos --ar 4:5 --raw --
+stylize 1000
+
+close-up portrait of a woman with damp skin under soft window light, cinematic teal shadows
+washing across her face, every pore and freckle visible, 85mm lens shallow depth of field, cinematic
+backlight haze, subtle film grain, imperfect color cast, --no blur watermark text distorted faces
+logos --ar 4:5 --raw --stylize 1000

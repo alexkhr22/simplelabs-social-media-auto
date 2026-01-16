@@ -1,0 +1,9 @@
+A man in a suit stands at a forgotten
+bus stop in vast desert, suitcase by
+his side, teal twilight sky merging
+with orange dust, cinematic haze,
+long lens compression, 100mm f/2.8
+telephoto tone, lens flare, nostalgic
+mood, minimal composition --
+chaos 5 --ar 4:5 --style raw --v7
+--quality 2 --stylize 870 --weird 21

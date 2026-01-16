@@ -1,0 +1,8 @@
+A cinematic still of a young gen-z man and woman walking side by side in modern streetwear, oversized hoodies, cargo pants, nike sneakers,
+both laughing out loud, genuine joy, wide smiles, visible teeth, playful energy, carefree mood,
+warm evening golden light, teal and orange color grading,
+cinematic depth of field, happy expressive faces,
+4k movie still, ultra realistic skin texture,
+shallow focus, fine grain, anamorphic lens look,
+natural candid moment, friendship vibes, youth culture
+--chaos 15 --ar 4:5 --quality 2 --raw --stylize 800

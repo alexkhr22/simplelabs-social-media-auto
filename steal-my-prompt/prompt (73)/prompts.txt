@@ -1,0 +1,7 @@
+Dark-skinned model wearing gold satin gown
+with exaggerated silhouette, haute couture
+fashion editorial, Hasselblad H6D, golden hour
+natural light, vertical portrait framing,
+minimalist desert backdrop, soft bokeh lens,
+glowy skin texture --ar 4:5 --seed 8976 --
+quality 2 --raw --stylize 225
